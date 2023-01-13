@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Fylo Data Storage Component Solution](https://your-solution-url.com)
-- Live Site URL: [Fylo Data Storage Component Live Site](https://your-live-site-url.com)
+- Solution URL: [Fylo Data Storage Component Solution](https://www.frontendmentor.io/solutions/fylo-data-storage-component-P4My5oRtrI)
+- Live Site URL: [Fylo Data Storage Component Live Site](https://mjspitta.github.io/fylo_data_storage_component/)
 
 ## My process
 
